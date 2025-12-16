@@ -56,7 +56,7 @@ V okviru projekta smo izvedli uporabniško testiranje prototipov, ki smo jih izd
 ### Mid-Semester Predstavitev (December 2025)
 
 V začetku decembra smo izvedli predstavitev našega napredka. Predstavitev je vključevala:
-- Predstavitev low fidelity prototipov z razlago.
+- Predstavitev dosedanjih prototipov z razlago.
 - Diskusijo o načrtu za nadaljnje delo, vključno z izdelavo high-fidelity prototipov in usability testiranjem.
   
 Za predstavitev smo pripravili prosojnice, ki so dostopne v repozitoriju v datoteki [**vmesna_predstavitev.pdf**](./vmesna_predstavitev.pdf). Prosojnice zajemajo:
