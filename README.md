@@ -37,7 +37,7 @@ Pripravili smo enostranski dokument, v katerem smo opredelili člane ekipe, name
 
 V novembru smo izvedli raziskavo, osredotočeno na uporabnike aplikacije za evidentiranje delovnega časa. Namen raziskave je bil bolje razumeti potrebe zaposlenih in administratorjev ter izzive, s katerimi se srečujejo pri obstoječih rešitvah.
 
-Pripravili smo Vprašalnik o načinu evidentiranja delovnega časa, na katerega je odgovorilo 20 oseb iz različnih služb. Vprašalnik je shranjen v datoteki [**Vprasalnik.pdf**]. Dodatno smo pripravili prosojnice, v katerih smo uporabili metodo empatije in obravnavali naslednje vidike (dostopna v repozitoriju [**Raziskovanje.pdf**]):
+Pripravili smo Vprašalnik o načinu evidentiranja delovnega časa, na katerega je odgovorilo 20 oseb iz različnih služb. Vprašalnik je shranjen v datoteki [**Vprasalnik.pdf**]. Dodatno smo pripravili prosojnice, v katerih smo uporabili metodo empatije in obravnavali naslednje vidike (dostopna v repozitoriju [**Raziskovanje.pdf**](./Raziskovanje.pdf)):
 - Uporabniki: zaposleni in administratorji.
 - Potrebe: enostavno beleženje prihodov in odhodov, pregled nad opravljenimi urami, nadzor nad lokacijo registracije in administratorski pregled aktivnosti.
 V raziskavi smo uporabili tudi metode opazovanja in analizo konkurenčnih rešitev, s čimer smo identificirali ključne uporabniške scenarije. Na podlagi teh ugotovitev smo opredelili glavne funkcionalnosti aplikacije. Uporabili smo tudi metodo SCAMPER, s katero smo dodatno izboljšali zasnovo uporabniškega vmesnika.
@@ -48,7 +48,7 @@ Po zaključeni raziskavi uporabniških potreb smo oblikovali prve low fidelity s
 Na podlagi teh skic smo v orodju Figma izdelali interaktivne prototipe. Prototip je vključeval:
 - Dva prototipa za uporabnika, ki prikazujeta različne možnosti interakcije z aplikacijo.
 - Dva prototipa za administratorja, ki omogočata pregled in upravljanje aktivnosti zaposlenih.
-Prototipi so interaktivni, kar pomeni, da omogočajo simulacijo uporabniških interakcij, kot so kliki na gumbe, navigacija med zasloni in prikaz informacij. Le te so na voljo v datoteki [**low_prototip.fig**] ali na povezavi ??.
+Prototipi so interaktivni, kar pomeni, da omogočajo simulacijo uporabniških interakcij, kot so kliki na gumbe, navigacija med zasloni in prikaz informacij. Le te so na voljo v datoteki [**prototip.fig**] ali na povezavi ??.
 
 ### Usability Testiranje (December 2025)
 V okviru projekta smo izvedli uporabniško testiranje prototipov, ki smo jih izdelali v orodju Figma. Testiranje je zajemalo odzive na prototip namenjen uporabnikom in prototip za administratorje, bolj podrobno pa je opisano v dokumentu [**uporabnisko_testiranje.pdf**].
@@ -59,7 +59,7 @@ V začetku decembra smo izvedli predstavitev našega napredka. Predstavitev je v
 - Predstavitev low fidelity prototipov z razlago.
 - Diskusijo o načrtu za nadaljnje delo, vključno z izdelavo high-fidelity prototipov in usability testiranjem.
   
-Za predstavitev smo pripravili prosojnice, ki so dostopne v repozitoriju v datoteki [**vmesna_predstavitev.pdf**]. Prosojnice zajemajo:
+Za predstavitev smo pripravili prosojnice, ki so dostopne v repozitoriju v datoteki [**vmesna_predstavitev.pdf**](./vmesna_predstavitev.pdf). Prosojnice zajemajo:
 - Opredelitev problema.
 - Analizo obstoječih rešitev.
 - Izdelavo naših prototipov in njihovo razlago.
