@@ -19,7 +19,7 @@ Smo skupina 2, ki jo sestavljamo:
 
 V okviru predmeta smo razvijali prototip aplikacije za evidentiranje delovnega časa. Projekt je bil usmerjen v zasnovo sodobne, pregledne in uporabniku prijazne rešitve, ki bi zaposlenim olajšala beleženje delovnega časa ter delodajalcem omogočila boljši pregled nad evidencami in upravljanje delovnih ur.
 
-Pri oblikovanju rešitve smo se osredotočili na odpravljanje pogostih težav, ki se pojavljajo pri evidentiranju delovnega časa, kot so nepregledni zapisi, zapleteni postopki popravljanja vnosov, omejen dostop zaposlenih do lastnih evidenc ter slaba prilagodljivost različnim načinom dela. Za podporo zasnovi prototipa smo pripravili Vprašalnik o načinu evidentiranja delovnega časa, shranjen v datoteki [**Vprasalnik.pdf**], s katerim smo zbrali odgovore 20 oseb iz različnih poklicnih okolij. Namen vprašalnika je bil pridobiti širši vpogled v uporabniške izkušnje in pričakovanja, ne pa izvajati poglobljene analize obstoječih sistemov, temveč oblikovati prototip aplikacije, ki naslavlja najpogosteje izpostavljene izzive.
+Pri oblikovanju rešitve smo se osredotočili na odpravljanje pogostih težav, ki se pojavljajo pri evidentiranju delovnega časa, kot so nepregledni zapisi, zapleteni postopki popravljanja vnosov, omejen dostop zaposlenih do lastnih evidenc ter slaba prilagodljivost različnim načinom dela. Za podporo zasnovi prototipa smo pripravili Vprašalnik o načinu evidentiranja delovnega časa, shranjen v datoteki [**Vprasalnik.pdf**](./Vprasalnik.pdf), s katerim smo zbrali odgovore 20 oseb iz različnih poklicnih okolij. Namen vprašalnika je bil pridobiti širši vpogled v uporabniške izkušnje in pričakovanja, ne pa izvajati poglobljene analize obstoječih sistemov, temveč oblikovati prototip aplikacije, ki naslavlja najpogosteje izpostavljene izzive.
 
 V okviru projekta smo izdelali low-fidelity in high-fidelity prototip aplikacije v orodju Figma, izvedli usability testiranje ter na podlagi povratnih informacij prototip izboljšali. Projekt je potekal iterativno, s poudarkom na uporabniški izkušnji, jasnosti vmesnika in enostavni uporabi aplikacije.
 
@@ -37,7 +37,7 @@ Pripravili smo enostranski dokument, v katerem smo opredelili člane ekipe, name
 
 V novembru smo izvedli raziskavo, osredotočeno na uporabnike aplikacije za evidentiranje delovnega časa. Namen raziskave je bil bolje razumeti potrebe zaposlenih in administratorjev ter izzive, s katerimi se srečujejo pri obstoječih rešitvah.
 
-Pripravili smo Vprašalnik o načinu evidentiranja delovnega časa, na katerega je odgovorilo 20 oseb iz različnih služb. Vprašalnik je shranjen v datoteki [**Vprasalnik.pdf**]. Dodatno smo pripravili prosojnice, v katerih smo uporabili metodo empatije in obravnavali naslednje vidike (dostopna v repozitoriju [**Raziskovanje.pdf**](./Raziskovanje.pdf)):
+Pripravili smo Vprašalnik o načinu evidentiranja delovnega časa, na katerega je odgovorilo 20 oseb iz različnih služb. Vprašalnik je shranjen v datoteki [**Vprasalnik.pdf**](./Vprasalnik.pdf). Dodatno smo pripravili prosojnice, v katerih smo uporabili metodo empatije in obravnavali naslednje vidike (dostopna v repozitoriju [**Raziskovanje.pdf**](./Raziskovanje.pdf)):
 - Uporabniki: zaposleni in administratorji.
 - Potrebe: enostavno beleženje prihodov in odhodov, pregled nad opravljenimi urami, nadzor nad lokacijo registracije in administratorski pregled aktivnosti.
 V raziskavi smo uporabili tudi metode opazovanja in analizo konkurenčnih rešitev, s čimer smo identificirali ključne uporabniške scenarije. Na podlagi teh ugotovitev smo opredelili glavne funkcionalnosti aplikacije. Uporabili smo tudi metodo SCAMPER, s katero smo dodatno izboljšali zasnovo uporabniškega vmesnika.
@@ -51,7 +51,7 @@ Na podlagi teh skic smo v orodju Figma izdelali interaktivne prototipe. Prototip
 Prototipi so interaktivni, kar pomeni, da omogočajo simulacijo uporabniških interakcij, kot so kliki na gumbe, navigacija med zasloni in prikaz informacij. Le te so na voljo v datoteki [**prototip.fig**] ali na povezavi ??.
 
 ### Usability Testiranje (December 2025)
-V okviru projekta smo izvedli uporabniško testiranje prototipov, ki smo jih izdelali v orodju Figma. Testiranje je zajemalo odzive na prototip namenjen uporabnikom in prototip za administratorje, bolj podrobno pa je opisano v dokumentu [**uporabnisko_testiranje.pdf**].
+V okviru projekta smo izvedli uporabniško testiranje prototipov, ki smo jih izdelali v orodju Figma. Testiranje je zajemalo odzive na prototip namenjen uporabnikom in prototip za administratorje, bolj podrobno pa je opisano v dokumentu [**uporabnisko_testiranje.pdf**](./uporabnisko_testiranje.pdf).
 
 ### Mid-Semester Predstavitev (December 2025)
 
