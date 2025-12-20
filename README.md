@@ -44,7 +44,7 @@ V raziskavi smo uporabili tudi metode opazovanja in analizo konkurenčnih rešit
 
 ### Prototipiranje (November 2025)
 
-Po zaključeni raziskavi uporabniških potreb smo oblikovali prve low fidelity skice uporabniškega vmesnika. Skice so prikazovale osnovno strukturo aplikacije, postavitev ključnih elementov, navigacijo in področja za vsebino. Skice so shranjene v dokumentu [**skice.pdf**].
+Po zaključeni raziskavi uporabniških potreb smo oblikovali prve low fidelity skice uporabniškega vmesnika. Skice so prikazovale osnovno strukturo aplikacije, postavitev ključnih elementov, navigacijo in področja za vsebino. Skice so shranjene v dokumentu [**skice.pdf**](./skice.pdf).
 Na podlagi teh skic smo v orodju Figma izdelali interaktivne prototipe. Prototip je vključeval:
 - Dva prototipa za uporabnika, ki prikazujeta različne možnosti interakcije z aplikacijo.
 - Dva prototipa za administratorja, ki omogočata pregled in upravljanje aktivnosti zaposlenih.
