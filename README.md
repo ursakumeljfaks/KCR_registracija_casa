@@ -31,7 +31,7 @@ Repozitorij služi kot arhiv vseh aktivnosti, dokumentov in datotek, ki so nasta
 
 V prvem koraku projekta smo pripravili predlog za razvoj tovrstne aplikacije, namenjene enostavnemu beleženju prihodov, odhodov in pregleda opravljenih ur zaposlenih.
 
-Pripravili smo enostranski dokument, v katerem smo opredelili člane ekipe, namen in cilje projekta ter osnovni načrt izvedbe. Dokument smo oddali v oktobru 2025 z naslovom [**predloga_projekta.pdf**], ki je dostopen v tem repozitoriju.
+Pripravili smo enostranski dokument, v katerem smo opredelili člane ekipe, namen in cilje projekta ter osnovni načrt izvedbe. Dokument smo oddali v oktobru 2025 z naslovom [**predloga_projekta.pdf**](./predloga_projekta.pdf), ki je dostopen v tem repozitoriju.
 
 ### Raziskava Uporabniških Potreb (November 2025)
 
