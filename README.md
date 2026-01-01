@@ -37,7 +37,7 @@ Pripravili smo enostranski dokument, v katerem smo opredelili člane ekipe, name
 
 V novembru smo izvedli raziskavo, osredotočeno na uporabnike aplikacije za evidentiranje delovnega časa. Namen raziskave je bil bolje razumeti potrebe zaposlenih in administratorjev ter izzive, s katerimi se srečujejo pri obstoječih rešitvah.
 
-Pripravili smo Vprašalnik o načinu evidentiranja delovnega časa, na katerega je odgovorilo 20 oseb iz različnih služb. Vprašalnik je shranjen v datoteki [**Vprasalnik.pdf**](./Vprasalnik.pdf). Dodatno smo pripravili prosojnice, v katerih smo uporabili metodo empatije in obravnavali naslednje vidike (dostopna v repozitoriju [**Raziskovanje.pdf**](./Raziskovanje.pdf)):
+Pripravili smo Vprašalnik o načinu evidentiranja delovnega časa, na katerega je odgovorilo 20 oseb iz različnih služb. Vprašalnik je shranjen v datoteki [**Vprasalnik.pdf**](./Vprasalnik.pdf). Opravljena je bila tudi tematična analiza podatkov, dostopna v datoteki [**reflek_tematska_analiza.xlsx**](./refkle_tematska_analiza.xlsx). Dodatno smo pripravili prosojnice, v katerih smo uporabili metodo empatije in obravnavali naslednje vidike (dostopna v repozitoriju [**Raziskovanje.pdf**](./Raziskovanje.pdf)):
 - Uporabniki: zaposleni in administratorji.
 - Potrebe: enostavno beleženje prihodov in odhodov, pregled nad opravljenimi urami, nadzor nad lokacijo registracije in administratorski pregled aktivnosti.
 V raziskavi smo uporabili tudi metode opazovanja in analizo konkurenčnih rešitev, s čimer smo identificirali ključne uporabniške scenarije. Na podlagi teh ugotovitev smo opredelili glavne funkcionalnosti aplikacije. Uporabili smo tudi metodo SCAMPER, s katero smo dodatno izboljšali zasnovo uporabniškega vmesnika.
@@ -51,7 +51,7 @@ Na podlagi teh skic smo v orodju Figma izdelali interaktivne prototipe. Prototip
 Prototipi so interaktivni, kar pomeni, da omogočajo simulacijo uporabniških interakcij, kot so kliki na gumbe, navigacija med zasloni in prikaz informacij. Le te so na voljo v datoteki [**prototip.fig**] ali na povezavi ??.
 
 ### Usability Testiranje (December 2025)
-V okviru projekta smo izvedli uporabniško testiranje prototipov, ki smo jih izdelali v orodju Figma. Testiranje je zajemalo odzive na prototip namenjen uporabnikom in prototip za administratorje, bolj podrobno pa je opisano v dokumentu [**uporabnisko_testiranje.pdf**](./uporabnisko_testiranje.pdf).
+V okviru projekta smo izvedli uporabniško testiranje prototipov, ki smo jih izdelali v orodju Figma. Testiranje je zajemalo odzive na prototip namenjen uporabnikom in prototip za administratorje, bolj podrobno pa je opisano v dokumentu [**uporabnisko_testiranje.pdf**](./uporabnisko_testiranje.pdf). Analiza testiranja s tehniko Nielsonove hevristike je dostopna v datoteki [**nielsonova_hevr_analiza.xlsx**](./nielsonova_hevr_analiza.xlsx).
 
 ### Mid-Semester Predstavitev (December 2025)
 
