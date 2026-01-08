@@ -48,7 +48,7 @@ Po zaključeni raziskavi uporabniških potreb smo oblikovali prve low fidelity s
 Na podlagi teh skic smo v orodju Figma izdelali interaktivne prototipe. Prototip je vključeval:
 - Dva prototipa za uporabnika, ki prikazujeta različne možnosti interakcije z aplikacijo.
 - Dva prototipa za administratorja, ki omogočata pregled in upravljanje aktivnosti zaposlenih.
-Prototipi so interaktivni, kar pomeni, da omogočajo simulacijo uporabniških interakcij, kot so kliki na gumbe, navigacija med zasloni in prikaz informacij. Le te so na voljo v datoteki [**prototip.fig**] ali na povezavi ??.
+Prototipi so interaktivni, kar pomeni, da omogočajo simulacijo uporabniških interakcij, kot so kliki na gumbe, navigacija med zasloni in prikaz informacij. Le te so na voljo v datoteki [**prototip.fig**](./prototip.fig).
 
 ### Usability Testiranje (December 2025)
 V okviru projekta smo izvedli uporabniško testiranje prototipov, ki smo jih izdelali v orodju Figma. Testiranje je zajemalo odzive na prototip namenjen uporabnikom in prototip za administratorje, bolj podrobno pa je opisano v dokumentu [**uporabnisko_testiranje.pdf**](./uporabnisko_testiranje.pdf). Analiza testiranja s tehniko Nielsonove hevristike je dostopna v datoteki [**nielsonova_hevr_analiza.xlsx**](./nielsonova_hevr_analiza.xlsx).
@@ -74,7 +74,7 @@ Na podlagi povratnih informacij in komentarjev, pridobljenih pri prvih prototipi
 
 Prototip za uporabnika vključuje osnovni pregled, gumbne funkcije, koledar in odštevanje časa za odmor, z opozorili za lokacijo, medtem ko prototip za administratorja omogoča pregled aktivnosti zaposlenih z vizualnimi izboljšavami, kot je prikaz na zemljevidu in pregled opravljenih ur.
 
-Končni prototipi so interaktivni, kar omogoča simulacijo osnovnih uporabniških interakcij. Le te so na voljo v datoteki ??.
+Končni prototipi so interaktivni, kar omogoča simulacijo osnovnih uporabniških interakcij. Le te so na voljo v datoteki [**prototip.fig**](./prototip.fig).
 
 ### Zaključno Poročilo o Projektu (December 2025)
 Na koncu smo izdelali zaključno poročilo, ki povzema celoten projektni potek, od analize uporabniških potreb do razvoja in testiranja nadgrajenega prototipa. V poročilu so predstavljeni uporabljeni postopki, doseženi rezultati ter glavne ugotovitve. Poročilo je dostopno v datoteki [**porocilo.pdf**](./porocilo.pdf).
