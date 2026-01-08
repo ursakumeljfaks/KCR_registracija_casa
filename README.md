@@ -77,6 +77,6 @@ Prototip za uporabnika vključuje osnovni pregled, gumbne funkcije, koledar in o
 Končni prototipi so interaktivni, kar omogoča simulacijo osnovnih uporabniških interakcij. Le te so na voljo v datoteki ??.
 
 ### Zaključno Poročilo o Projektu (December 2025)
-Na koncu smo izdelali zaključno poročilo, ki povzema celoten projektni potek, od analize uporabniških potreb do razvoja in testiranja nadgrajenega prototipa. V poročilu so predstavljeni uporabljeni postopki, doseženi rezultati ter glavne ugotovitve. Poročilo je dostopno v datoteki [**porocilo.pdf**].
+Na koncu smo izdelali zaključno poročilo, ki povzema celoten projektni potek, od analize uporabniških potreb do razvoja in testiranja nadgrajenega prototipa. V poročilu so predstavljeni uporabljeni postopki, doseženi rezultati ter glavne ugotovitve. Poročilo je dostopno v datoteki [**porocilo.pdf**](./porocilo.pdf).
 
 
